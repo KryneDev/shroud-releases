@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Перший публічний реліз Shroud.",
+  "pub_date": "2026-04-24T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd0YwR3YxcWFydDZSaUxZVmhqaE1tMk1BbEVnZTh4RjVDSmprbXdBSUJuaE5XM3puYTlnWUVQZG9rQlNRVlVEdGc4OXpYblA3UVlta3NiNzAvUjkxWVplNGFRN1FpOHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTc3NjQ3CWZpbGU6U2hyb3VkXzAuMS4wX3g2NC1zZXR1cC5leGUKK09hbktnQkVESHVRbUxwVWx6d3NFTEZwSE50ZDNpRkJUTEZVNGxNU3ZuNXR0R0VXM2V2OU1qb0hzNDlleTkyWkJlNjkxSEU2L2JpZkJPY1lGclZxQVE9PQo=",
+      "url": "https://github.com/KryneDev/shroud-releases/releases/download/v0.1.0/Shroud_0.1.0_x64-setup.exe"
+    }
+  }
+}
