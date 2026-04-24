@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Перший публічний реліз Shroud.",
-  "pub_date": "2026-04-24T00:00:00Z",
+  "version": "0.1.1",
+  "notes": "Bundled Tor, uninstaller cleans user data",
+  "pub_date": "2026-04-24T09:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd0YwR3YxcWFydDZSaUxZVmhqaE1tMk1BbEVnZTh4RjVDSmprbXdBSUJuaE5XM3puYTlnWUVQZG9rQlNRVlVEdGc4OXpYblA3UVlta3NiNzAvUjkxWVplNGFRN1FpOHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTc3NjQ3CWZpbGU6U2hyb3VkXzAuMS4wX3g2NC1zZXR1cC5leGUKK09hbktnQkVESHVRbUxwVWx6d3NFTEZwSE50ZDNpRkJUTEZVNGxNU3ZuNXR0R0VXM2V2OU1qb0hzNDlleTkyWkJlNjkxSEU2L2JpZkJPY1lGclZxQVE9PQo=",
-      "url": "https://github.com/KryneDev/shroud-releases/releases/download/v0.1.0/Shroud_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd0YwR3YxcWFydC81ZE4zWkdsVXJVQ1VtenVaa2pZemNLNHdkNVpyRldQTDdrWk9GVGpQTy9kSS93SW1EYWhnOCt4RFlLQkd5UjZnUmE5OGgrSjg4SUREMXFUNmx6Y0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDIyNTUwCWZpbGU6U2hyb3VkXzAuMS4xX3g2NC1zZXR1cC5leGUKM01ldWVtei80djgxRzgveFRlTmtpcmdTa0laMnkrajQ3RVZFK2RZaVlEWnVoUkFvTFBwNHVSR29jOXFFdlc5WkNTbE9RSDJRK3ptdzU4U281ZFN6Q1E9PQo=",
+      "url": "https://github.com/KryneDev/shroud-releases/releases/download/v0.1.1/Shroud_0.1.1_x64-setup.exe"
     }
   }
 }
