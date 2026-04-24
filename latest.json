@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Bundled Tor, uninstaller cleans user data, fixed Tor shutdown on update",
-  "pub_date": "2026-04-24T09:40:00Z",
+  "version": "0.1.0",
+  "notes": "First public release",
+  "pub_date": "2026-04-24T13:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd0YwR3YxcWFydDFvQlNmMUtsTENiS3NtMWJObzA0NHAzenJaZm4xdHZUR0k2VVVvUEhJZXJGRWpaZUlrcHh0Ukw3bDE2aFNldHNsN0lGZlFZVWJ0ajE3SDltOVlCY3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDIzNjU1CWZpbGU6U2hyb3VkXzAuMS4xX3g2NC1zZXR1cC5leGUKNDE3TUhsbGdNWXFUUittbDhoeWpRWGxvWlA1WXU5TC9XYmZGWFRuZGNNUURvdWFkWE95YmpKdzMyZDU4SURhUDlyUkhsRkxnUTdDN0JTTm83aUN5RFE9PQo=",
-      "url": "https://github.com/KryneDev/shroud-releases/releases/download/v0.1.1/Shroud_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd0YwR3YxcWFydDJldFlha09CTi9qQk5wd2h2QmIzNEkzNyswVElWU0RTZTRzVG15TkRqbjBnSGluT0x5VmExdXkzZDAzOFNyNTkrZXducjJrNE43TzhwVENCRVE0L3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDM1Mzk3CWZpbGU6U2hyb3VkXzAuMS4wX3g2NC1zZXR1cC5leGUKdEMrYllSQzQrN3VuMkthNVY4SUpyaW1CTGhKZFQ1MzVQZ3U1RitnZXh0RTFGam15MUQ3c3IyMjdwN3ZoTVJpZmxOU0NKaE1CTkVtS3NHS2M0VHZtRHc9PQo=",
+      "url": "https://github.com/KryneDev/shroud-releases/releases/download/v0.1.0/Shroud_0.1.0_x64-setup.exe"
     }
   }
 }
