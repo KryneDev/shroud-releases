@@ -1,11 +1,12 @@
 {
-  "version": "0.1.0",
-  "notes": "First public release",
-  "pub_date": "2026-04-24T13:00:00Z",
+  "version": "0.1.1",
+  "notes": "Real Shroud icon everywhere, inline audio/video playback, 100 MB file sharing, voice-over-Tor calls (no IP leak), QR-based device linking, mobile Android build, many UX polish fixes.",
+  "pub_date": "2026-04-24T23:17:42Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd0YwR3YxcWFydDJldFlha09CTi9qQk5wd2h2QmIzNEkzNyswVElWU0RTZTRzVG15TkRqbjBnSGluT0x5VmExdXkzZDAzOFNyNTkrZXducjJrNE43TzhwVENCRVE0L3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDM1Mzk3CWZpbGU6U2hyb3VkXzAuMS4wX3g2NC1zZXR1cC5leGUKdEMrYllSQzQrN3VuMkthNVY4SUpyaW1CTGhKZFQ1MzVQZ3U1RitnZXh0RTFGam15MUQ3c3IyMjdwN3ZoTVJpZmxOU0NKaE1CTkVtS3NHS2M0VHZtRHc9PQo=",
-      "url": "https://github.com/KryneDev/shroud-releases/releases/download/v0.1.0/Shroud_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd0YwR3YxcWFydCtTa3orNyt4OVBRMWlRQ2hBRGgvK081dVVaejhFMjBJS2oraDBLWWtkdlBBQXhFS0pJRUZscnJlZGhESnJqVmdhWTZFam0vb2xsVWJhRlY3NC9pQVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDYxNjIxCWZpbGU6U2hyb3VkXzAuMS4xX3g2NC1zZXR1cC5leGUKSWYyWnljMncvTUVmVmI5S0tTSVhMamtibElqbVRBc3NQamxKRGdET1NVdi9JdVV5eXBJRk1CLytkcEJSKzFhWDdBNy9zYWduSlljSzhGYk9ZM2NLRGc9PQo=",
+      "url": "https://github.com/KryneDev/shroud-releases/releases/download/v0.1.1/Shroud_0.1.1_x64-setup.exe"
     }
   }
 }
+
