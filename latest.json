@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Android version (first), friend requests, QR contacts, accent colors, auto-retry pending messages, missed-call notifications, full mobile UI rework.",
-  "pub_date": "2026-04-25T23:30:00Z",
+  "version": "0.1.0",
+  "notes": "Перший публічний реліз",
+  "pub_date": "2026-04-30T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd0YwR3YxcWFydDRCNStxckRnRjB4TzFXbGwweE4vOVJHSHZsbjM3OVhQVUdEVHQrR2gyV0E5VFJ2TFcwenVjTE5mUVlXdi9vbEIyRGZqMkJ0VmwwV01jRVVXN1p0a1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTQyNzI5CWZpbGU6U2hyb3VkXzAuMi4wX3g2NC1zZXR1cC5leGUKR0MrcHMwRXpsYTV5aXBLUG1RaWJvdFpSOVdZTjZRQi8wZnlLMXRlZ1ZqTy9HMUVOVFoyTk1SN2l6K2RkbFdpWlE4cHhvb3pVbFBWZ2tTUS9Zc1VRQlE9PQo=",
-      "url": "https://github.com/KryneDev/shroud-releases/releases/download/v0.2.0/Shroud_0.2.0_x64-setup.exe"
+      "signature": "<вміст .sig одним рядком>",
+      "url": "https://github.com/KryneDev/shroud-releases/releases/download/v0.1.0/Shroud_0.1.0_x64-setup.exe"
     }
   }
 }
